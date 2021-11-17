@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>朱师傅</title>
+  <title>JupiterBox</title>
   <icon>https://jupiterpoff.github.io/JupiterBox/icon.png</icon>
   
   <link href="https://jupiterpoff.github.io/JupiterBox/atom.xml" rel="self"/>
   
   <link href="https://jupiterpoff.github.io/JupiterBox/"/>
-  <updated>2021-11-17T08:04:11.244Z</updated>
+  <updated>2021-11-17T08:08:26.223Z</updated>
   <id>https://jupiterpoff.github.io/JupiterBox/</id>
   
   <author>
-    <name>Lambda_YH</name>
+    <name>JupiterPoff</name>
     
   </author>
   
@@ -21,7 +21,7 @@
     <link href="https://jupiterpoff.github.io/JupiterBox/2020/06/23/1/"/>
     <id>https://jupiterpoff.github.io/JupiterBox/2020/06/23/1/</id>
     <published>2020-06-23T18:39:35.000Z</published>
-    <updated>2021-11-17T08:04:11.244Z</updated>
+    <updated>2021-11-17T08:08:26.223Z</updated>
     
     
       
