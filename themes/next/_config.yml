@@ -177,8 +177,8 @@ site_state: true
 # Key is the link label showing to end users.
 # Value before `||` delimiter is the target permalink, value after `||` delimiter is the name of Font Awesome icon.
 social:
-  GitHub: https://github.com/LambdaYH || fab fa-github
-  E-Mail: mailto:chenyihang1998@gmail.com || fa fa-envelope
+  GitHub: https://github.com/JupiterPoff || fab fa-github
+  E-Mail: mailto:554204677@qq.com || fa fa-envelope
   RSS: /atom.xml || fa fa-rss
   #Weibo: https://weibo.com/yourname || fab fa-weibo
   #Google: https://plus.google.com/yourname || fab fa-google
@@ -203,9 +203,6 @@ links_settings:
 
 links:
   #Title: http://yoursite.com
-  Blog: https://blog.cinte.cc/
-  RSSHUB: https://rsshub.cinte.cc/
-  米缸图床: https://image.cinte.cc/
 
 # Table of Contents in the Sidebar
 # Front-matter variable (unsupport wrap expand_all).
