@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>朱师傅</title>
-  <icon>https://leetcode.cinte.cc/icon.png</icon>
+  <icon>https://jupiterpoff.github.io/JupiterBox/icon.png</icon>
   
-  <link href="https://leetcode.cinte.cc/atom.xml" rel="self"/>
+  <link href="https://jupiterpoff.github.io/JupiterBox/atom.xml" rel="self"/>
   
-  <link href="https://leetcode.cinte.cc/"/>
-  <updated>2021-11-17T08:00:36.512Z</updated>
-  <id>https://leetcode.cinte.cc/</id>
+  <link href="https://jupiterpoff.github.io/JupiterBox/"/>
+  <updated>2021-11-17T08:02:29.978Z</updated>
+  <id>https://jupiterpoff.github.io/JupiterBox/</id>
   
   <author>
     <name>Lambda_YH</name>
@@ -18,10 +18,10 @@
   
   <entry>
     <title>1. 两数之和</title>
-    <link href="https://leetcode.cinte.cc/2020/06/23/1/"/>
-    <id>https://leetcode.cinte.cc/2020/06/23/1/</id>
+    <link href="https://jupiterpoff.github.io/JupiterBox/2020/06/23/1/"/>
+    <id>https://jupiterpoff.github.io/JupiterBox/2020/06/23/1/</id>
     <published>2020-06-23T18:39:35.000Z</published>
-    <updated>2021-11-17T08:00:36.512Z</updated>
+    <updated>2021-11-17T08:02:29.978Z</updated>
     
     
       
@@ -35,7 +35,7 @@
     
     
     
-    <category term="leetcode" scheme="https://leetcode.cinte.cc/categories/leetcode/"/>
+    <category term="leetcode" scheme="https://jupiterpoff.github.io/JupiterBox/categories/leetcode/"/>
     
     
   </entry>
