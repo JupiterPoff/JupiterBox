@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>朱师傅</title>
+  <icon>https://leetcode.cinte.cc/icon.png</icon>
+  
+  <link href="https://leetcode.cinte.cc/atom.xml" rel="self"/>
+  
+  <link href="https://leetcode.cinte.cc/"/>
+  <updated>2021-11-17T08:00:36.512Z</updated>
+  <id>https://leetcode.cinte.cc/</id>
+  
+  <author>
+    <name>Lambda_YH</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>1. 两数之和</title>
+    <link href="https://leetcode.cinte.cc/2020/06/23/1/"/>
+    <id>https://leetcode.cinte.cc/2020/06/23/1/</id>
+    <published>2020-06-23T18:39:35.000Z</published>
+    <updated>2021-11-17T08:00:36.512Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;sadas&lt;/p&gt;
+</summary>
+        
+      
+    
+    
+    
+    <category term="leetcode" scheme="https://leetcode.cinte.cc/categories/leetcode/"/>
+    
+    
+  </entry>
+  
+</feed>
